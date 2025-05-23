@@ -1,0 +1,10 @@
+{
+  "name": "Quantum Equilibrium Coin",
+  "symbol": "QEEC",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "QEEC is a BEP-20 utility token used for medical service payments, online consultations, and other medical services. It supports decentralized health access and future research and innovation health, regenerative and holistic medicine.",
+  "explorer": "https://bscscan.com/token/0x24859bA86E79B3F255547d5355e5358893BA2992",
+  "status": "active",
+  "id": "0x24859bA86E79B3F255547d5355e5358893BA2992"
+}
